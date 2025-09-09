@@ -13,6 +13,6 @@
 + [мой фэйсит](https://www.faceit.com/ru/players/boogiu "Faceit")
 + ![img](https://yt3.googleusercontent.com/jV61LViRkppHfmncsnbYabsx4ycjofzEQHxz5luBHCQHgcnm4cPSi7jjWlC3cH47d7-tgFwcww=s900-c-k-c0x00ffffff-no-rj)
 
-|abvg|столбец2|
-|-|---|
-|a|aa|
+|winrate|avg hs|avg k/r|
+|-|---|---|
+|30%|56%|0.89|
