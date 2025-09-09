@@ -9,6 +9,6 @@
 2. список
 - [x] с галочкой
 - [ ] без галочки
-<https://www.faceit.com/ru/players/boogiu>
-[https://www.faceit.com/ru](https://www.faceit.com/ru/players/boogiu "Faceit")
-![img]((D:\faceit.jpeg) "мой лвл"
++ <https://www.faceit.com/ru/players/boogiu>
++ [https://www.faceit.com/ru](https://www.faceit.com/ru/players/boogiu "Faceit")
++ ![img]((D:\faceit.jpeg) "мой лвл"
