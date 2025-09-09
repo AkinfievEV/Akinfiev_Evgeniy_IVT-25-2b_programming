@@ -6,7 +6,5 @@
 
 1. aaa
 2. aaa
-- aaa
-+ aaa
--[x] aaa
--[ ] aaa
+-[x]aaa
+-[ ]aaa
