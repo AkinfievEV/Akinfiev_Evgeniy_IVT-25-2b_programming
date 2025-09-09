@@ -10,5 +10,5 @@
 - [x] с галочкой
 - [ ] без галочки
 + <https://www.faceit.com/ru/players/boogiu>
-+ [https://www.faceit.com/ru/players/boogiu](https://www.faceit.com/ru/players/boogiu "Faceit")
++ [мой фэйсит](https://www.faceit.com/ru/players/boogiu "Faceit")
 + ![img]((D:\faceit.jpeg) "мой лвл"
